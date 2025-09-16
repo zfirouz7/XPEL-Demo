@@ -1,0 +1,5 @@
+{
+  "name": "XPEL Demo",
+  "description": "Upload an image of your car and use AI to visualize it in different colors. Select a color from the palette to apply a virtual wrap to your vehicle.",
+  "requestFramePermissions": []
+}
